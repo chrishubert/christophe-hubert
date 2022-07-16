@@ -50,8 +50,8 @@ export default {
   // Disqus
   disqus: {
     on: true,
-    loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    loadingStrategy: 'onload', // Options: onload, lazy, button
+    siteShortName: 'christophe-hubert' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
