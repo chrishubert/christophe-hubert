@@ -3,6 +3,19 @@
     {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
     Rights Reserved
     <br />
+    You can reach us on
+    <a href="https://twitter.com/chrishubert_pm">
+      <font-awesome-icon prefix="fab" :icon="['fab', 'twitter']" />
+    </a>
+    ,
+    <a href="https://www.linkedin.com/in/hubertchristophe/">
+      <font-awesome-icon prefix="fab" :icon="['fab', 'linkedin']" />
+    </a>
+    , and
+    <a href="https://www.youtube.com/channel/UCIR5Vxs1dnMFvRp1pcdsUPw">
+      <font-awesome-icon prefix="fab" :icon="['fab', 'youtube']" />
+    </a>
+    <br />
     Made with <span style="color: #e25555;">&#9829;</span> with Nuxt.js and
     Netlify
   </footer>
