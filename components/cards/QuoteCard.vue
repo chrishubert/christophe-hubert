@@ -20,7 +20,8 @@
                 $nuxt.$route.path +
                 '&via=christophehubert_pm'
             "
-            >Twitter
+          >
+            <font-awesome-icon :icon="['fab', 'twitter']" /> Twitter
           </a>
         </span>
       </div>
@@ -34,7 +35,8 @@
                 $siteConfig.domain +
                 $nuxt.$route.path
             "
-            >Facebook
+          >
+            <font-awesome-icon :icon="['fab', 'facebook']" /> Facebook
           </a>
         </span>
       </div>

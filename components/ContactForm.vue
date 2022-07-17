@@ -8,7 +8,7 @@
           class="input is-medium"
           type="text"
           placeholder="John Smith"
-          name="name"
+          name="full_name"
         />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
