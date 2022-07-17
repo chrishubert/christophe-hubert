@@ -2,43 +2,49 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Us"
-      subtitle="Example About Page"
+      subtitle="Why are we doing that?"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>The pain points of product manager journey</h3>
           <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            There are a few reasons why becoming a product is difficult. First,
+            you have to be able to sell yourself. You have to be able to
+            convince people that you're worth their money. Second, you have to
+            be able to stand out from the competition. There are a lot of
+            products out there, and you have to be able to make yours stand out.
+            Finally, you have to be able to keep up with the trends. Things are
+            always changing, and you have to be able to change with them.
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>Helping a fellow Product Manager</h3>
+
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            I firmly believe that, as a Product Manager, one of the most
+            important things you can do is to help those around you. Whether
+            it’s your team, your colleagues, or your customers, your help will
+            always be greatly appreciated.
+            <br />
+            By building a strong community of Product Managers, ready to mentor,
+            we will be able to build better products together!
           </p>
-          <quote-card />
-          <h3>Still More Fake Content</h3>
+
+          <quote-card
+            quote="A product manager is only as good as the team that surrounds them."
+            author="Christophe Hubert"
+          />
+          <h3>Our Projects</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
+            We focus on advanced Routing Optimization for vehicles and for
+            warehousing
+          </p>
+          <p>
+            Routing optimization is the process of finding the best route for a
+            given network. <strong>It is a complex problem</strong> that
+            involves finding the shortest path between two nodes, while also
+            taking into account the constraints of the network.
           </p>
         </div>
 
@@ -46,40 +52,31 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Cool Stuff We Do
+                Routing Optimization
               </p>
               <p class="subtitle">
-                Sooo Cool
+                Provide the best route for multiple couriers
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+                Picking Optimization
               </p>
               <p class="subtitle">
-                Just as cool
+                Most efficient routes in warehouse
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                All the cool
+                Courier Mobile Application
               </p>
               <p class="subtitle">
-                that is all
+                Track and assign tasks to couriers
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
             </article>
           </div>
         </div>

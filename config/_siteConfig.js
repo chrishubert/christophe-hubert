@@ -9,6 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
+  domain: 'https://www.christophehubert.com',
   siteName: 'Christophe Hubert',
   tagline: 'A Journey into Product Management!',
   featureImage: '/uploads/home-hero.jpg',
