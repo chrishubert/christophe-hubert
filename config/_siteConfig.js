@@ -12,7 +12,7 @@ export default {
   siteName: 'Christophe Hubert',
   tagline: 'A Journey into Product Management!',
   featureImage: '/uploads/home-hero.jpg',
-  logo: '/new-logo.svg', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/logo-2.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: 'G-GBTXFYB4KH'

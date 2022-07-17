@@ -2,7 +2,7 @@
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Contact Us"
-      subtitle="Example Contact Page"
+      subtitle="We want to hear from you!"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -28,15 +28,13 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    We're all ears!
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  If you need to get in touch with us, whether it's to share a
+                  story, give us feedback, or just say hi, we'd love to hear
+                  from you! You can reach us by filling out the form!
                 </p>
               </div>
             </article>
@@ -60,6 +58,7 @@
 </template>
 <script>
 import ContactForm from '~/components/ContactForm'
+
 export default {
   head() {
     return {
