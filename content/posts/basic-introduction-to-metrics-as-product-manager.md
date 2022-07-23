@@ -1,8 +1,8 @@
 ---
-title: Basic Introduction to Metrics as Product Manager
+title: Introduction to Metrics as Product Manager
 subtitle: Product managers are responsible for the success or failure of a
   product. In order to make sure their products are successful, they need to
-  track various metrics
+  track various metrics.
 category:
   - Starting as a Product Manager
 author: Christophe hubert
@@ -18,7 +18,7 @@ But, product managers are also the ones who get to take the credit when a produc
 
 So, whether a product succeeds or fails, the product manager is always responsible. That's the burden and the beauty of being a product manager.
 
-## Product Manager is driven by KPI or metrics
+## Product Managers are driven by KPI or metrics
 
 In product management, we often say that success is defined by KPIs or metrics. But what does that really mean?
 In a nutshell, it means that we need to set goals for our products and track progress against those goals. KPIs and metrics are the tools that help us do that.
