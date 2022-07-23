@@ -9,6 +9,7 @@ author: Christophe hubert
 date: 2022-07-23T03:50:37.738Z
 featureImage: /uploads/inside-glacier-cave-2.jpg
 ---
+[![Content Video](https://img.youtube.com/vi/DWDesRNYpYY/0.jpg)](https://www.youtube.com/watch?v=DWDesRNYpYY)
 
 ## What defines success for a Product Manager
 
@@ -17,6 +18,7 @@ Product managers are the ones to blame when a product fails. They are the ones w
 But, product managers are also the ones who get to take the credit when a product is a success. They are the ones who get to take the glory when a product meets or exceeds expectations. In short, product managers are also responsible for the success of the product.
 
 So, whether a product succeeds or fails, the product manager is always responsible. That's the burden and the beauty of being a product manager.
+
 
 ## Product Managers are driven by KPI or metrics
 
@@ -35,12 +37,12 @@ By tracking these and other metrics, businesses can get a better understanding o
 We need to keep in mind that those metrics may vary a lot depending on the industry and the company itself.
 
 Some of the few other famous metrics are:
-- MAU (Monthly active users)
-- Returning Users
-- Churn Users
-- App Store Reviews
-- AOV (Average Order Value)
 
+* MAU (Monthly active users)
+* Returning Users
+* Churn Users
+* App Store Reviews
+* AOV (Average Order Value)
 
 ## How to choose the correct product metrics?
 
@@ -61,6 +63,7 @@ There's no denying that success is often defined by numbers and metrics. Whether
 But does this mean that qualitative measures are completely worthless? Of course not! While metrics are critical, they don't tell the whole story. After all, numbers don't always reflect things like the quality of your product, the loyalty of your customers, or the engagement of your team.
 
 So while success may be defined by numbers, remember that it's also important to focus on the qualitative measures that can't be quantified. After all, a business is more than just a collection of numbers and KPIs.
+
 ## Conclusion
 
 When it comes to product metrics, there is no one-size-fits-all solution. The best approach is to start by understanding your product and your business goals, and then choosing the metrics that will help you achieve those goals. 
