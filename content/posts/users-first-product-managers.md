@@ -1,5 +1,5 @@
 ---
-title: Users-First Product Managers
+title: User-First Product Managers
 subtitle: As a product manager, your key role is to advocate for the user by
   ensuring that products are designed with the user in mind and meet their
   needs. This requires having a deep understanding of users, what they need and
@@ -16,8 +16,9 @@ As a product manager, one of your key roles is to be the advocate for the user. 
 
 There are a few key things you can do to make sure you are being a user-first product manager:
 
-1. Always put the user first: 
-> When making any decisions about the product, always think about what is best for the user. This means considering their needs, wants and pain points.
+## 1. Always put the user first: 
+
+   > When making any decisions about the product, always think about what is best for the user. This means considering their needs, wants and pain points.
 
 When it comes to product development, the user should always be top of mind. Every decision made should be with the user in mind – their needs, wants and pain points.
 
@@ -25,8 +26,9 @@ Only by keeping the user front and center can you hope to develop a product that
 
 Don’t let this happen to your product. Always keep the user first and foremost in your mind, and you’ll be well on your way to developing a product that is a success.
 
-2. Build user empathy: 
-> Try to put yourself in your users' shoes and understand their perspective. This will help you make better decisions about the product.
+## 2. Build user empathy: 
+
+   > Try to put yourself in your users' shoes and understand their perspective. This will help you make better decisions about the product.
 
 As a product manager, one of the most important things you can do is to try to put yourself in your users' shoes and understand their perspective. This will help you make better decisions about the product.
 
@@ -36,8 +38,9 @@ There are a few things you can do to try to build user empathy. First, you can t
 
 User empathy is an important skill for product managers. It can help you make better decisions about the product.
 
-3. Conduct user research: 
-> Gather data about your users through surveys, interviews, and usability testing. This will give you valuable insights into their needs and how they use the product.
+## 3. Conduct user research: 
+
+   > Gather data about your users through surveys, interviews, and usability testing. This will give you valuable insights into their needs and how they use the product.
 
 As a product manager, conducting user research is an essential part of the job. By gathering data about users through surveys, interviews, and usability testing, you can gain valuable insights into their needs and how they use the product.
 
@@ -45,8 +48,9 @@ This data can be used to inform product decisions, such as what features to buil
 
 User research is an ongoing process, so it’s important to make it a part of your regular routine. By regularly conducting research, you can ensure that your product is always meeting the needs of your users.
 
-4. Be the voice of the user: 
-> When communicating with other stakeholders about the product, make sure to always represent the users' point of view.
+## 4. Be the voice of the user: 
+
+   > When communicating with other stakeholders about the product, make sure to always represent the users' point of view.
 
 As a product manager, it's important to always be the voice of the user. When communicating with other stakeholders about the product, make sure to always represent the users' point of view. This means being an advocate for the user, and always putting their needs first.
 
@@ -54,8 +58,9 @@ It can be easy to get caught up in the business side of things and forget about 
 
 So next time you're talking to other stakeholders about the product, make sure to keep the users top of mind. Advocate for their needs, and ensure that their voices are always heard.
 
-5. Advocate for the user: 
-> If there are any decisions being made that you feel are not in the best interest of the user, speak up and advocate for their needs.
+## 5. Advocate for the user: 
+
+   > If there are any decisions being made that you feel are not in the best interest of the user, speak up and advocate for their needs.
 
 The role of a product manager is to advocate for the user. This means that if there are any decisions being made that you feel are not in the best interest of the user, you should speak up and advocate for their needs.
 
@@ -63,7 +68,7 @@ There are a few things to keep in mind when advocating for the user. First, you 
 
 Advocating for the user is not always easy, but it is an important part of the product manager role. So if you see something that you feel is not in the best interest of the user, don’t be afraid to speak up and advocate for their needs.
 
-6. In summary:
+## 6. In summary:
 
 As a product manager, it is your job to always put the user first. This means having a deep understanding of who your users are, what they need and want, and what they are trying to achieve. It also means always putting the user’s needs ahead of the company’s, and being the voice of the user when communicating with other stakeholders.
 
