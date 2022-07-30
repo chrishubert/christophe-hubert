@@ -8,9 +8,8 @@ category:
 author: Christophe hubert
 date: 2022-07-23T03:50:37.738Z
 featureImage: /uploads/inside-glacier-cave-2.jpg
+ytCode: DWDesRNYpYY
 ---
-[![Content Video](https://img.youtube.com/vi/DWDesRNYpYY/0.jpg)](https://www.youtube.com/watch?v=DWDesRNYpYY)
-
 ## What defines success for a Product Manager
 
 Product managers are the ones to blame when a product fails. They are the ones who have to take the heat when a product doesn't meet expectations. And, they are the ones who have to answer to the stakeholders when a product doesn't live up to its potential.
