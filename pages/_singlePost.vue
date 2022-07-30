@@ -14,7 +14,10 @@
     <main-section :one-column-constrained="true">
       <template v-slot:default>
         <div class="post-wrapper">
+          <youtube v-if="ytCode" :yt-code="ytCode" />
           <markdown :markdown="$store.state.content" />
+          <quote-card v-if="quote" :quote="quote" :author="author" />
+          <hr />
           <div class="other-posts">
             <h6 class="subtitle is-size-4">
               Related Posts
@@ -37,10 +40,14 @@ import { setPageData, getFormattedDate } from '../helper'
 // import 'highlight.js/styles/github.css'
 import Markdown from '~/components/Markdown'
 import PostSidebar from '~/components/PostSidebar'
+import QuoteCard from '~/components/cards/QuoteCard'
+import Youtube from '~/components/cards/Youtube'
 export default {
   components: {
     Markdown,
-    PostSidebar
+    PostSidebar,
+    QuoteCard,
+    Youtube
   },
   computed: {
     ...mapState([
@@ -50,7 +57,9 @@ export default {
       'underSubtitle',
       'author',
       'category',
-      'slug'
+      'slug',
+      'ytCode',
+      'quote'
     ]),
     date() {
       return getFormattedDate(this.$store.state.date)

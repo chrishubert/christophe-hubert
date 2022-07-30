@@ -10,7 +10,9 @@ category:
   - Starting as a Product Manager
 author: Christophe Hubert
 date: 2022-07-30T03:36:27.591Z
-featureImage: /uploads/markup-hero.jpg
+featureImage: /uploads/markup-hero.jpg 
+ytCode: uNGDu594rG8 
+quote: User-first product managers advocate for the user by always putting their needs first. This means considering their wants and pain points when making decisions about the product.
 ---
 As a product manager, one of your key roles is to be the advocate for the user. You need to ensure that the products you are responsible for are designed with the user in mind and meet their needs. This means having a deep understanding of who your users are, what they need and want, and what they are trying to achieve.
 

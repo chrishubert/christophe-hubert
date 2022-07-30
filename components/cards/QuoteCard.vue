@@ -1,10 +1,11 @@
 <template>
   <div class="card quote-card">
     <div class="card-content">
-      <p class="title">“{{ quote }}”</p>
-      <p class="subtitle">
+      <span class="title">“{{ quote }}”</span>
+      <br />
+      <span class="subtitle">
         ~ <span>{{ author }}</span>
-      </p>
+      </span>
     </div>
     <footer class="card-footer">
       <div class="card-footer-item">
@@ -46,7 +47,11 @@
 <script>
 export default {
   props: {
-    quote: { type: String, default: 'Good Quote' },
+    quote: {
+      type: String,
+      default:
+        'Service to others is the rent you pay for your room here on Earth.'
+    },
     author: { type: String, default: 'Unknown' }
   }
 }
