@@ -156,7 +156,7 @@ There are a lot of tools and resources available to help product managers be mor
 
 * The Pomodoro Technique
 
-  *   https://en.wikipedia.org/wiki/Pomodoro_Technique
+  *   <https://en.wikipedia.org/wiki/Pomodoro_Technique>
   *   The Pomodoro Technique is a time management strategy that can be used to increase productivity. It is based on the principle that if you break down your work into smaller chunks, you can get more done in less time.
   *   The Pomodoro Technique is a great productivity hack for product managers because it can be used to break down a large project into smaller tasks. This makes it easier to focus on each task and get it done quickly.
 * The Eisenhower Matrix
@@ -166,7 +166,7 @@ There are a lot of tools and resources available to help product managers be mor
 * Productivity Apps
 
   *   There are a number of other productivity tools that product managers can use to their advantage, such as Jira, ClickUp, Basecamp, Asana, ...
-  *   In Edenfarm, we use Larksuite (from the company that gave TikTok) to help us manage all our products.
+  *   In Edenfarm, we use [Larksuite ](https://www.larksuite.com/)(from the company that gave TikTok) to help us manage all our products.
 
 ### Overcome obstacles and stay motivated
 
